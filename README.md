@@ -42,12 +42,14 @@
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
 * [**C++**: _Raycasting engine of Wolfenstein 3D_](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: _Physically Based Rendering:From Theory To Implementation_](http://www.pbr-book.org/)
+* [**C++**: _Ray Tracing in One Weekend_] (https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [**C++**: _Rasterization: a Practical Implementation_](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm)
 * [**C# / TypeScript / JavaScript**: _Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript_](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+* [**Rust**: _WebGL + Rust: Basic Water Tutorial_](www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 
 [Back to top](#table-of-contents)
 
@@ -135,6 +137,7 @@
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
 * [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
 * [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
+* [**Rust**: _Writing a Command Line Tool in Rust_](https://mattgathu.github.io/writing-cli-app-rust/)
 * [**Rust**: Writing a wget clone](https://mattgathu.github.io/writing-cli-app-rust/)
 
 [Back to top](#table-of-contents)
@@ -510,7 +513,7 @@
 * [**C**: _Write a System Call_](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [**C**: _Sol - An MQTT broker from scratch_](https://codepr.github.io/posts/sol-mqtt-broker)
 * [**C**: A list of tutorials that explain how to create small and medium projects with C](https://github.com/rby90/project-based-tutorials-in-c)
-* [**C**:  Write BigInt calculator in C ](https://www.hanshq.net/bigint.html)
+* [**C**: _Write BigInt calculator in C_](https://www.hanshq.net/bigint.html)
 * [**C++**: _Build your own VR headset for $100_](https://github.com/relativty/Relativ)
 * [**C++**: _How X Window Managers work and how to write one_](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
@@ -560,10 +563,10 @@
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
-* [**Node.js**: Build a hashtag tweet viewing tool with Node.js & the Twitter API ](https://www.codewall.co.uk/how-to-build-a-twitter-hashtag-viewing-tool-tutorial/)
-* [**Python**: DIY Async Web Framework: Learn how async frameworks work by writing one from scratch](https://github.com/hzlmn/diy-async-web-framework)
-* [**F#**: Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
-* [**Php**: Create your first composer packagist package: Learns how php composer works under the hood](https://medium.com/@jun.chenying/how-to-create-a-composer-packagist-package-bdd414b9efd6)
+* [**Node.js**: _Build a hashtag tweet viewing tool with Node.js & the Twitter API_](https://www.codewall.co.uk/how-to-build-a-twitter-hashtag-viewing-tool-tutorial/)
+* [**Python**: _DIY Async Web Framework: Learn how async frameworks work by writing one from scratch_](https://github.com/hzlmn/diy-async-web-framework)
+* [**F#**: _Write your own Excel in 100 lines of F#_](http://tomasp.net/blog/2018/write-your-own-excel)
+* [**PHP**: _Create your first composer packagist package: Learns how php composer works under the hood_](https://medium.com/@jun.chenying/how-to-create-a-composer-packagist-package-bdd414b9efd6)
 
 [Back to top](#table-of-contents)
 
